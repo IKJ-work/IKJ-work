@@ -22,24 +22,19 @@
 <a href="https://www.ua-technologies.com/">
   <img src="https://img.shields.io/badge/UA%20TECHNOLOGIES-FOUNDER%20%26%20BUILDER-7C3AED?style=for-the-badge&labelColor=09090B" />
 </a>
-
 <a href="mailto:ibrahim.khan.jagwal@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-LET'S%20TALK-FFFFFF?style=for-the-badge&labelColor=09090B&color=7C3AED&logo=gmail&logoColor=white" />
 </a>
-
-<a href="https://www.linkedin.com/in/ibrahim-khan-jagwal/_WITH_YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/PUT-YOUR-LINKEDIN-HANDLE-HERE/">
   <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&labelColor=09090B&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="https://github.com/IKJ-work">
   <img src="https://img.shields.io/badge/GITHUB-IKJ--WORK-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img
-  src="https://komarev.com/ghpvc/?username=IKJ-work&label=PROFILE%20VISITORS&color=7C3AED&style=for-the-badge"
-/>
+<img src="https://komarev.com/ghpvc/?username=IKJ-work&label=PROFILE%20VISITORS&color=7C3AED&style=for-the-badge" />
 
 </div>
 
@@ -51,18 +46,14 @@
 
 ```yaml
 name: Ibrahim Khan Jagwal
-
 roles:
   - Full-Stack Developer
   - SaaS Product Builder
   - Technology Entrepreneur
-
 company: UA Technologies
-
 mission:
   "Build scalable technology products that solve serious business
    problems and create long-term commercial value."
-
 currently_building:
   - SaaS platforms
   - Business management systems
@@ -71,7 +62,6 @@ currently_building:
   - E-commerce platforms
   - Automation tools
   - Cloud-deployed web products
-
 core_focus:
   - Product engineering
   - Backend architecture
@@ -79,6 +69,146 @@ core_focus:
   - Multi-user systems
   - AI integration
   - Infrastructure and deployment
-
 location: Pakistan
 availability: Open to serious projects and strategic partnerships
+```
+
+---
+
+## `$ tech --stack`
+
+<div align="center">
+
+**Languages & Runtimes**
+
+<img src="https://img.shields.io/badge/TypeScript-09090B?style=for-the-badge&logo=typescript&logoColor=7C3AED" />
+<img src="https://img.shields.io/badge/JavaScript-09090B?style=for-the-badge&logo=javascript&logoColor=7C3AED" />
+<img src="https://img.shields.io/badge/Python-09090B?style=for-the-badge&logo=python&logoColor=7C3AED" />
+<img src="https://img.shields.io/badge/C%23-09090B?style=for-the-badge&logo=csharp&logoColor=7C3AED" />
+<img src="https://img.shields.io/badge/PHP-09090B?style=for-the-badge&logo=php&logoColor=7C3AED" />
+
+**Frontend**
+
+<img src="https://img.shields.io/badge/React-09090B?style=for-the-badge&logo=react&logoColor=7C3AED" />
+<img src="https://img.shields.io/badge/Next.js-09090B?style=for-the-badge&logo=nextdotjs&logoColor=7C3AED" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-09090B?style=for-the-badge&logo=tailwindcss&logoColor=7C3AED" />
+<img src="https://img.shields.io/badge/GSAP-09090B?style=for-the-badge&logo=greensock&logoColor=7C3AED" />
+
+**Backend & Frameworks**
+
+<img src="https://img.shields.io/badge/Node.js-09090B?style=for-the-badge&logo=nodedotjs&logoColor=7C3AED" />
+<img src="https://img.shields.io/badge/Express-09090B?style=for-the-badge&logo=express&logoColor=7C3AED" />
+<img src="https://img.shields.io/badge/Flask-09090B?style=for-the-badge&logo=flask&logoColor=7C3AED" />
+<img src="https://img.shields.io/badge/ASP.NET%20Core-09090B?style=for-the-badge&logo=dotnet&logoColor=7C3AED" />
+<img src="https://img.shields.io/badge/Socket.io-09090B?style=for-the-badge&logo=socketdotio&logoColor=7C3AED" />
+
+**Data & Infrastructure**
+
+<img src="https://img.shields.io/badge/PostgreSQL-09090B?style=for-the-badge&logo=postgresql&logoColor=7C3AED" />
+<img src="https://img.shields.io/badge/Prisma-09090B?style=for-the-badge&logo=prisma&logoColor=7C3AED" />
+<img src="https://img.shields.io/badge/SQL%20Server-09090B?style=for-the-badge&logo=microsoftsqlserver&logoColor=7C3AED" />
+<img src="https://img.shields.io/badge/Vercel-09090B?style=for-the-badge&logo=vercel&logoColor=7C3AED" />
+<img src="https://img.shields.io/badge/Linux-09090B?style=for-the-badge&logo=linux&logoColor=7C3AED" />
+<img src="https://img.shields.io/badge/Git-09090B?style=for-the-badge&logo=git&logoColor=7C3AED" />
+
+**Automation & Tooling**
+
+<img src="https://img.shields.io/badge/Playwright-09090B?style=for-the-badge&logo=playwright&logoColor=7C3AED" />
+<img src="https://img.shields.io/badge/EmailJS-09090B?style=for-the-badge&logo=maildotru&logoColor=7C3AED" />
+<img src="https://img.shields.io/badge/REST%20APIs-09090B?style=for-the-badge&logo=fastapi&logoColor=7C3AED" />
+
+</div>
+
+---
+
+## `$ ls ./featured-work`
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 USIS — Unified Social Inbox System
+Aggregates WhatsApp, Instagram, Facebook, and email into a single real-time dashboard.
+`Node.js` `Express` `React` `Prisma` `Socket.io`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏗️ Texora ERP
+Multi-module ERP covering Sales Orders, Delivery, Items/Variants, and Journal Entries.
+`ASP.NET Core MVC` `Razor` `Entity Framework`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 BDPilot
+Chrome-extension-based Upwork automation for job scoring and AI proposal generation, feeding a Flask + Socket.IO backend.
+`Flask` `Manifest V3` `Socket.IO`
+
+</td>
+<td width="50%" valign="top">
+
+### 🗺️ Business Lead-Gen Scrapers
+Async Google Maps scrapers for Pakistan, UAE, and USA markets — email/social extraction, Excel export, LAN-shareable.
+`Flask` `Playwright` `Asyncio`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ❄️ Arctic Chill
+AC services site with a GSAP/Canvas scroll-driven disassembly animation and a black-and-white futuristic aesthetic.
+`Next.js 14` `TypeScript` `GSAP`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 Hospital Management System
+Full relational database design for a hospital platform with ERD and FK documentation.
+`PostgreSQL` `Prisma` `Express`
+
+</td>
+</tr>
+</table>
+
+---
+
+## `$ git log --stats`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=IKJ-work&show_icons=true&count_private=true&hide_border=true&bg_color=09090B&title_color=A855F7&icon_color=7C3AED&text_color=E5E5E5" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IKJ-work&layout=compact&hide_border=true&bg_color=09090B&title_color=A855F7&text_color=E5E5E5" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IKJ-work&hide_border=true&background=09090B&stroke=09090B&ring=7C3AED&fire=A855F7&currStreakLabel=A855F7&sideLabels=E5E5E5&currStreakNum=E5E5E5&sideNums=E5E5E5&dates=6B7280" />
+
+</div>
+
+---
+
+## `$ contact --init`
+
+<div align="center">
+
+I'm open to serious freelance projects, SaaS collaborations, and strategic technical partnerships — reach out and let's build something real.
+
+<a href="mailto:ibrahim.khan.jagwal@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-ibrahim.khan.jagwal%40gmail.com-7C3AED?style=for-the-badge&labelColor=09090B&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.ua-technologies.com/">
+  <img src="https://img.shields.io/badge/WEBSITE-ua--technologies.com-7C3AED?style=for-the-badge&labelColor=09090B&logo=googlechrome&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:050505,35:120821,70:5B21B6,100:050505&section=footer"
+/>
+
+</div>
