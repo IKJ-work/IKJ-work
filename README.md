@@ -185,21 +185,12 @@ Full relational database design for a hospital platform with ERD and FK document
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IKJ-work&hide_border=true&background=09090B&stroke=09090B&ring=7C3AED&fire=A855F7&currStreakLabel=A855F7&sideLabels=E5E5E5&currStreakNum=E5E5E5&sideNums=E5E5E5&dates=6B7280" />
+
 
 </div>
 
 ---
 
-## `$ ./trophies --list`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=IKJ-work&theme=radical&no-frame=true&margin-w=15&row=1&column=7" />
-
-</div>
-
----
 
 ## `$ contact --init`
 
