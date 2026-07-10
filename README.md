@@ -88,12 +88,6 @@ I work across frontend development, backend systems, databases, APIs, deployment
 
 </div> 
 
-<!-- <div align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IKJ-work&layout=compact&theme=github_dark&hide_border=true" />
-
-</div> -->
-
 ---
 
 ## Featured Projects
