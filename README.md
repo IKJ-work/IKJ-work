@@ -195,53 +195,7 @@ Full relational database design for a hospital platform with ERD and FK document
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=IKJ-work&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
-
-</div>
-
----
-
-## `$ contribution --snake`
-
-name: generate-snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"   # regenerate every 12 hours
-  workflow_dispatch:          # lets you trigger it manually from the Actions tab
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - name: generate snake svg
-        uses: Platane/snk@v3
-        with:
-          github_user_name: IKJ-work
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: push output to "output" branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-
-
-<div align="center">
-
-<!--START_SECTION:snake-->
-<img src="https://raw.githubusercontent.com/IKJ-work/IKJ-work/output/github-contribution-grid-snake-dark.svg" />
-<!--END_SECTION:snake-->
+<img src="https://github-profile-trophy.vercel.app/?username=IKJ-work&theme=radical&no-frame=true&margin-w=15&row=1&column=7" />
 
 </div>
 
