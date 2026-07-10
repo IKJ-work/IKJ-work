@@ -1,19 +1,23 @@
 <div align="center">
 
-# Hi, I'm Ibrahim Khan Jagwal 👋
+# Ibrahim Khan Jagwal
 
-### Full-Stack Developer | Building Production-Ready Web Applications
+### Full-Stack Developer · SaaS Builder · Technology Entrepreneur
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
-  <img src="https://img.shields.io/badge/LinkedIn-Ibrahim%20Khan%20Jagwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+I build production-ready web platforms, business systems and AI-powered software.
+
+<br/>
+
+<a href="https://www.ua-technologies.com/">
+  <img src="https://img.shields.io/badge/UA%20Technologies-Visit%20Company-7C3AED?style=for-the-badge&logoColor=white" />
+</a>
+
+<a href="mailto:ibrahim.khan.jagwal@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-111111?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://github.com/IKJ-work">
   <img src="https://img.shields.io/badge/GitHub-IKJ--work-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.ua-technologies.com/">
-  <img src="https://img.shields.io/badge/Company-UA%20Technologies-7C3AED?style=for-the-badge" />
 </a>
 
 </div>
@@ -22,94 +26,129 @@
 
 ## About Me
 
-I am a Full-Stack Developer focused on building scalable, secure and production-ready web applications.
+I am a full-stack developer focused on building practical software that solves real business problems.
 
-I work across frontend development, backend systems, databases, APIs, deployment and cloud infrastructure. I am especially interested in SaaS platforms, business automation, AI-powered applications and reliable system architecture.
+My work includes SaaS platforms, property portals, e-commerce systems, internal dashboards, quotation systems, automation tools and business websites.
 
-- 🔭 Building web platforms and SaaS products
-- 🌱 Improving system architecture, DevOps and AI integration
-- 💼 Working with **UA Technologies**
-- 🚀 Focused on turning practical business problems into software products
-- 📫 Contact: **ibrahim.khan.jagwal@gmail.com**
+Currently, I am building and managing technology products through **UA Technologies**.
 
----
-
-## Tech Stack
-
-### Frontend
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</p>
-
-### Backend
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-7C3AED?style=for-the-badge" />
-</p>
-
-### Databases
-
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-### Tools and Deployment
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-</p>
+- Building scalable SaaS and business platforms
+- Working with React, Next.js, Node.js and MongoDB
+- Exploring AI automation and local AI infrastructure
+- Interested in system architecture, cloud deployment and product development
+- Based in Pakistan and working with international clients
 
 ---
 
-## GitHub Statistics
+## What I Build
 
- <div align="center">
+<table>
+<tr>
+<td width="50%">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=IKJ-work&show_icons=true&theme=github_dark&hide_border=true" />
+### SaaS Platforms
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=IKJ-work&theme=github-dark-blue&hide_border=true" />
+Multi-user platforms with authentication, subscriptions, dashboards, role management and business workflows.
 
-</div> 
+</td>
+<td width="50%">
+
+### Business Software
+
+Quotation systems, admin panels, CRM workflows, reporting dashboards and operational tools.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Web Applications
+
+Fast, responsive and production-ready applications built with modern frontend and backend technologies.
+
+</td>
+<td width="50%">
+
+### AI and Automation
+
+AI-powered tools, workflow automation, intelligent assistants and internal business systems.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Featured Projects
+## Core Technology Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,express,python,mongodb,mysql,postgres,docker,linux,git,github,vercel,cloudflare&perline=8" />
+
+</div>
+
+---
+
+## Featured Work
 
 ### Mera Ashiana
 
-A property platform designed to help users discover and explore real-estate listings.
+A real-estate discovery platform designed to connect property seekers, agents and property owners through a modern digital experience.
 
-### UA Technologies
-
-Technology services covering software development, IT infrastructure, business automation and digital solutions.
-
-### E-Commerce Platform
-
-A web-based commerce solution with product management, user functionality and online purchasing workflows.
+**Focus:** Property listings, search, user experience and platform scalability
 
 ---
 
-## Current Focus
+### UA Technologies
+
+A technology company providing software development, IT infrastructure, business automation and digital transformation services.
+
+**Focus:** Business systems, websites, infrastructure and custom technology solutions
+
+---
+
+### Quotation Management System
+
+A digital system for creating, managing and tracking professional business quotations.
+
+**Focus:** Admin workflows, client records, pricing and downloadable quotation documents
+
+---
+
+### E-Commerce Platform
+
+A responsive online store with product browsing, cart functionality, order management and administrative controls.
+
+**Focus:** Product management, customer experience and order workflows
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=IKJ-work&theme=transparent&hide_border=true&border_radius=10&stroke=7C3AED&ring=7C3AED&fire=A855F7&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=8B949E"
+  alt="GitHub streak"
+/>
+
+<br/><br/>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=IKJ-work&bg_color=0d1117&color=c9d1d9&line=8b5cf6&point=ffffff&area=true&hide_border=true"
+  alt="GitHub activity graph"
+/>
+
+</div>
+
+---
+
+## Current Direction
 
 ```text
-Building scalable SaaS platforms
+Building scalable SaaS products
 Improving backend architecture
 Developing AI-powered business tools
-Learning cloud infrastructure and deployment
+Creating reliable multi-user systems
+Growing UA Technologies
