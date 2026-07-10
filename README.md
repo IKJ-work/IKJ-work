@@ -180,12 +180,68 @@ Full relational database design for a hospital platform with ERD and FK document
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=IKJ-work&show_icons=true&count_private=true&hide_border=true&bg_color=09090B&title_color=A855F7&icon_color=7C3AED&text_color=E5E5E5" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IKJ-work&layout=compact&hide_border=true&bg_color=09090B&title_color=A855F7&text_color=E5E5E5" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=IKJ-work&show_icons=true&count_private=true&hide_border=true&bg_color=09090B&title_color=A855F7&icon_color=7C3AED&text_color=E5E5E5&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IKJ-work&layout=compact&hide_border=true&bg_color=09090B&title_color=A855F7&text_color=E5E5E5&cache_seconds=86400" />
 
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=IKJ-work&hide_border=true&background=09090B&stroke=09090B&ring=7C3AED&fire=A855F7&currStreakLabel=A855F7&sideLabels=E5E5E5&currStreakNum=E5E5E5&sideNums=E5E5E5&dates=6B7280" />
+
+</div>
+
+---
+
+## `$ ./trophies --list`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=IKJ-work&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
+
+</div>
+
+---
+
+## `$ contribution --snake`
+
+name: generate-snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # regenerate every 12 hours
+  workflow_dispatch:          # lets you trigger it manually from the Actions tab
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: generate snake svg
+        uses: Platane/snk@v3
+        with:
+          github_user_name: IKJ-work
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: push output to "output" branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+
+<div align="center">
+
+<!--START_SECTION:snake-->
+<img src="https://raw.githubusercontent.com/IKJ-work/IKJ-work/output/github-contribution-grid-snake-dark.svg" />
+<!--END_SECTION:snake-->
 
 </div>
 
