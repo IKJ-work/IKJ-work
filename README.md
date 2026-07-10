@@ -179,8 +179,8 @@ Full relational database design for a hospital platform with ERD and FK document
 $ git log --stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=IKJ-work&show_icons=true&count_private=true&hide_border=true&bg_color=09090B&title_color=A855F7&icon_color=7C3AED&text_color=E5E5E5&cache_seconds=86400" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IKJ-work&layout=compact&hide_border=true&bg_color=09090B&title_color=A855F7&text_color=E5E5E5&cache_seconds=86400" />
+<!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=IKJ-work&show_icons=true&count_private=true&hide_border=true&bg_color=09090B&title_color=A855F7&icon_color=7C3AED&text_color=E5E5E5&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IKJ-work&layout=compact&hide_border=true&bg_color=09090B&title_color=A855F7&text_color=E5E5E5&cache_seconds=86400" /> -->
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=IKJ-work&hide_border=true&background=09090B&stroke=09090B&ring=7C3AED&fire=A855F7&currStreakLabel=A855F7&sideLabels=E5E5E5&currStreakNum=E5E5E5&sideNums=E5E5E5&dates=6B7280" />
 </div>
