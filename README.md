@@ -25,7 +25,7 @@
 <a href="mailto:ibrahim.khan.jagwal@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-LET'S%20TALK-FFFFFF?style=for-the-badge&labelColor=09090B&color=7C3AED&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/[https://www.linkedin.com/in/ibrahim-khan-jagwal]/">
+<a href="https://www.linkedin.com/in/ibrahim-khan-jagwal/">
   <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&labelColor=09090B&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/IKJ-work">
