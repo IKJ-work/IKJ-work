@@ -1,174 +1,211 @@
-<!-- =========================================================
-     IBRAHIM KHAN JAGWAL — COMPLETE GITHUB PROFILE README
-     GitHub username: IKJ-work
-========================================================== -->
-
 <div align="center">
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,35:120821,70:5B21B6,100:050505&text=IBRAHIM%20KHAN%20JAGWAL&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20SAAS%20BUILDER%20%E2%80%A2%20TECHNOLOGY%20ENTREPRENEUR&descAlignY=57&descSize=17&animation=fadeIn"
-/>
+# IBRAHIM KHAN JAGWAL
+
+### FULL-STACK ENGINEER · SAAS BUILDER · SYSTEMS THINKER
+
+`Karachi, Pakistan` · `Building software around real business operations`
 
 <br/>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=950&lines=Building+production-ready+software.;Engineering+scalable+SaaS+platforms.;Automating+real+business+operations.;Turning+ideas+into+valuable+technology+products.;Building+the+future+through+UA+Technologies."
-  alt="Typing introduction"
-/>
-
-<br/><br/>
-
-<a href="https://www.ua-technologies.com/">
-  <img src="https://img.shields.io/badge/UA%20TECHNOLOGIES-FOUNDER%20%26%20BUILDER-7C3AED?style=for-the-badge&labelColor=09090B" />
+<a href="https://www.linkedin.com/in/ibrahim-khan-jagwal/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:ibrahim.khan.jagwal@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-LET'S%20TALK-FFFFFF?style=for-the-badge&labelColor=09090B&color=7C3AED&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Start_a_conversation-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://www.linkedin.com/in/ibrahim-khan-jagwal/">
-  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&labelColor=09090B&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/IKJ-work">
-  <img src="https://img.shields.io/badge/GITHUB-IKJ--WORK-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://www.ua-technologies.com/">
+  <img src="https://img.shields.io/badge/UA_Technologies-Explore-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="UA Technologies" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=IKJ-work&label=PROFILE%20VISITORS&color=7C3AED&style=for-the-badge" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1100&color=8B5CF6&center=true&vCenter=true&width=850&lines=I+build+systems%2C+not+just+screens.;SaaS+%E2%86%92+automation+%E2%86%92+infrastructure+%E2%86%92+business+value.;Product+thinking+with+engineering+discipline.;From+idea+to+production." alt="Typing intro" />
 
 </div>
 
-<br/>
+---
+
+## `01 / PROFILE`
+
+```txt
+> whoami
+
+Ibrahim Khan Jagwal
+
+Full-stack developer focused on building software that sits close to
+real business operations: SaaS products, internal platforms, automation,
+ERP-style systems, dashboards, APIs, integrations and cloud-deployed apps.
+
+I care about architecture, product clarity, reliability and shipping.
+The goal is not "more code". The goal is a system that actually works.
+```
+
+### What I optimize for
+
+| | |
+|---|---|
+| **Product** | Clear workflows, useful features, low-friction UX |
+| **Architecture** | Modular systems, clean boundaries, maintainable code |
+| **Backend** | APIs, auth, permissions, data models, integrations |
+| **Frontend** | Fast interfaces, practical dashboards, responsive UI |
+| **Infrastructure** | Docker, Linux, deployment, domains, reverse proxies |
+| **Automation** | AI-assisted workflows, operational tooling, scraping |
 
 ---
 
-## `$ whoami`
+## `02 / ENGINEERING STACK`
 
-```yaml
-name: Ibrahim Khan Jagwal
-roles:
-  - Full-Stack Developer
-  - SaaS Product Builder
-  - Technology Entrepreneur
-company: UA Technologies
-mission:
-  "Build scalable technology products that solve serious business
-   problems and create long-term commercial value."
-currently_building:
-  - SaaS platforms
-  - Business management systems
-  - AI-powered applications
-  - Real-estate technology
-  - E-commerce platforms
-  - Automation tools
-  - Cloud-deployed web products
-core_focus:
-  - Product engineering
-  - Backend architecture
-  - Business automation
-  - Multi-user systems
-  - AI integration
-  - Infrastructure and deployment
-location: Pakistan
-availability: Open to serious projects and strategic partnerships
+<div align="center">
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### Interface
+`React`  
+`Next.js`  
+`TypeScript`  
+`Tailwind CSS`  
+`GSAP`
+
+</td>
+<td valign="top" width="33%">
+
+### Systems
+`Node.js`  
+`Express`  
+`Python`  
+`PHP / Laravel`  
+`REST APIs`
+
+</td>
+<td valign="top" width="33%">
+
+### Data + Ops
+`PostgreSQL`  
+`Prisma`  
+`MySQL`  
+`Docker`  
+`Linux`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+```mermaid
+flowchart LR
+    A[Business Problem] --> B[Workflow Model]
+    B --> C[Product Architecture]
+    C --> D[Frontend]
+    C --> E[API / Services]
+    C --> F[Data Layer]
+    E --> G[Automation / AI]
+    D --> H[Deployment]
+    E --> H
+    F --> H
 ```
 
 ---
 
-## `$ tech --stack`
+## `03 / SYSTEMS I LIKE BUILDING`
 
-<div align="center">
+### 01. Modular SaaS Platforms
+Products where organizations can activate only the capabilities they need while sharing a strong core for identity, access, tenancy and permissions.
 
-**Languages & Runtimes**
+`multi-tenant` `RBAC` `organizations` `module registry` `auditability`
 
-<img src="https://img.shields.io/badge/TypeScript-09090B?style=for-the-badge&logo=typescript&logoColor=7C3AED" />
-<img src="https://img.shields.io/badge/JavaScript-09090B?style=for-the-badge&logo=javascript&logoColor=7C3AED" />
-<img src="https://img.shields.io/badge/Python-09090B?style=for-the-badge&logo=python&logoColor=7C3AED" />
-<img src="https://img.shields.io/badge/C%23-09090B?style=for-the-badge&logo=csharp&logoColor=7C3AED" />
-<img src="https://img.shields.io/badge/PHP-09090B?style=for-the-badge&logo=php&logoColor=7C3AED" />
+### 02. ERP + Operations Software
+Systems that map real workflows: accounting, purchases, sales, inventory, CRM, users, approvals and reporting.
 
-**Frontend**
+`business logic` `workflows` `relational data` `permissions`
 
-<img src="https://img.shields.io/badge/React-09090B?style=for-the-badge&logo=react&logoColor=7C3AED" />
-<img src="https://img.shields.io/badge/Next.js-09090B?style=for-the-badge&logo=nextdotjs&logoColor=7C3AED" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-09090B?style=for-the-badge&logo=tailwindcss&logoColor=7C3AED" />
-<img src="https://img.shields.io/badge/GSAP-09090B?style=for-the-badge&logo=greensock&logoColor=7C3AED" />
+### 03. AI + Automation
+Practical AI where it removes repetitive work, assists decisions or connects fragmented processes instead of existing as a demo feature.
 
-**Backend & Frameworks**
+`agents` `LLM integration` `workflow automation` `data extraction`
 
-<img src="https://img.shields.io/badge/Node.js-09090B?style=for-the-badge&logo=nodedotjs&logoColor=7C3AED" />
-<img src="https://img.shields.io/badge/Express-09090B?style=for-the-badge&logo=express&logoColor=7C3AED" />
-<img src="https://img.shields.io/badge/Flask-09090B?style=for-the-badge&logo=flask&logoColor=7C3AED" />
-<img src="https://img.shields.io/badge/ASP.NET%20Core-09090B?style=for-the-badge&logo=dotnet&logoColor=7C3AED" />
-<img src="https://img.shields.io/badge/Socket.io-09090B?style=for-the-badge&logo=socketdotio&logoColor=7C3AED" />
+### 04. Infrastructure-Aware Products
+Applications designed with deployment, networking, domains, containers, performance and maintainability in mind from the beginning.
 
-**Data & Infrastructure**
-
-<img src="https://img.shields.io/badge/PostgreSQL-09090B?style=for-the-badge&logo=postgresql&logoColor=7C3AED" />
-<img src="https://img.shields.io/badge/Prisma-09090B?style=for-the-badge&logo=prisma&logoColor=7C3AED" />
-<img src="https://img.shields.io/badge/SQL%20Server-09090B?style=for-the-badge&logo=microsoftsqlserver&logoColor=7C3AED" />
-<img src="https://img.shields.io/badge/Vercel-09090B?style=for-the-badge&logo=vercel&logoColor=7C3AED" />
-<img src="https://img.shields.io/badge/Linux-09090B?style=for-the-badge&logo=linux&logoColor=7C3AED" />
-<img src="https://img.shields.io/badge/Git-09090B?style=for-the-badge&logo=git&logoColor=7C3AED" />
-
-**Automation & Tooling**
-
-<img src="https://img.shields.io/badge/Playwright-09090B?style=for-the-badge&logo=playwright&logoColor=7C3AED" />
-<img src="https://img.shields.io/badge/EmailJS-09090B?style=for-the-badge&logo=maildotru&logoColor=7C3AED" />
-<img src="https://img.shields.io/badge/REST%20APIs-09090B?style=for-the-badge&logo=fastapi&logoColor=7C3AED" />
-
-</div>
+`Docker` `Linux` `Nginx` `Vercel` `Cloudflare`
 
 ---
 
-## `$ ls ./featured-work`
+## `04 / SELECTED BUILDS`
 
-<table width="100%">
+<table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧩 USIS — Unified Social Inbox System
-Aggregates WhatsApp, Instagram, Facebook, and email into a single real-time dashboard.
-`Node.js` `Express` `React` `Prisma` `Socket.io`
+### ◼ Unified Social Inbox
+A unified operations layer for handling WhatsApp, Instagram, Facebook and email conversations from one interface.
+
+**Engineering focus**  
+Real-time messaging, API integration, data synchronization and operator workflows.
+
+`Node.js` `Express` `React` `Prisma` `Socket.IO`
 
 </td>
 <td width="50%" valign="top">
 
-### 🏗️ Texora ERP
-Multi-module ERP covering Sales Orders, Delivery, Items/Variants, and Journal Entries.
-`ASP.NET Core MVC` `Razor` `Entity Framework`
+### ◼ Modular ERP Platform
+A business platform designed around independent modules that can operate separately or connect into a larger ERP.
+
+**Engineering focus**  
+Organizations, memberships, roles, company access, permissions, module activation and accounting integration.
+
+`Next.js` `Node.js` `TypeScript` `Prisma` `PostgreSQL`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 BDPilot
-Chrome-extension-based Upwork automation for job scoring and AI proposal generation, feeding a Flask + Socket.IO backend.
-`Flask` `Manifest V3` `Socket.IO`
+### ◼ AI Proposal Automation
+A workflow for discovering jobs, scoring opportunities and assisting proposal generation through browser and backend automation.
+
+**Engineering focus**  
+Automation pipelines, browser extensions, scoring logic and backend orchestration.
+
+`Python` `Flask` `Manifest V3` `Socket.IO`
 
 </td>
 <td width="50%" valign="top">
 
-### 🗺️ Business Lead-Gen Scrapers
-Async Google Maps scrapers for Pakistan, UAE, and USA markets — email/social extraction, Excel export, LAN-shareable.
-`Flask` `Playwright` `Asyncio`
+### ◼ Lead Intelligence Tooling
+Async discovery systems for finding businesses, extracting useful public information and structuring it for outreach workflows.
+
+**Engineering focus**  
+Parallel scraping, browser automation, structured exports and operator-friendly tools.
+
+`Playwright` `Asyncio` `Flask` `Excel`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ❄️ Arctic Chill
-AC services site with a GSAP/Canvas scroll-driven disassembly animation and a black-and-white futuristic aesthetic.
-`Next.js 14` `TypeScript` `GSAP`
+### ◼ Real-Time Chat Platform
+A custom communication system designed around private conversations, file transfer and a path toward end-to-end encryption.
+
+**Engineering focus**  
+Authentication, realtime events, scalable message delivery and secure client architecture.
+
+`Next.js` `Express` `TypeScript` `PostgreSQL` `Docker`
 
 </td>
 <td width="50%" valign="top">
 
-### 🏥 Hospital Management System
-Full relational database design for a hospital platform with ERD and FK documentation.
-`PostgreSQL` `Prisma` `Express`
+### ◼ Multi-Service Deployment
+Production-style deployments with multiple frontends, APIs, databases, domains and reverse-proxy routing.
+
+**Engineering focus**  
+Containerization, SSL, routing, environment separation and service operations.
+
+`Docker` `Nginx` `PostgreSQL` `Cloudflare` `Linux`
 
 </td>
 </tr>
@@ -176,40 +213,77 @@ Full relational database design for a hospital platform with ERD and FK document
 
 ---
 
-$ git log --stats
+## `05 / HOW I THINK ABOUT SOFTWARE`
+
+```txt
+BAD:
+feature -> code -> ship -> fix chaos later
+
+BETTER:
+problem
+  -> workflow
+  -> domain model
+  -> architecture
+  -> interface
+  -> implementation
+  -> observability
+  -> iteration
+```
+
+I prefer software that is **boring in production and impressive in capability**.
+
+That usually means fewer hidden assumptions, stronger boundaries, deliberate permissions, predictable data models, reversible decisions and enough documentation that the next developer does not have to reverse-engineer the system.
+
+---
+
+## `06 / CURRENT DIRECTION`
+
+```yaml
+focus:
+  - modular SaaS architecture
+  - ERP and business software
+  - AI-enabled operations
+  - developer tooling
+  - cloud and infrastructure
+  - productized software services
+
+interested_in:
+  - difficult business workflows
+  - systems that need to scale beyond an MVP
+  - automation with measurable operational value
+  - long-term technical partnerships
+```
+
+---
+
+## `07 / GITHUB SIGNAL`
 
 <div align="center">
-<!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=IKJ-work&show_icons=true&count_private=true&hide_border=true&bg_color=09090B&title_color=A855F7&icon_color=7C3AED&text_color=E5E5E5&cache_seconds=86400" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IKJ-work&layout=compact&hide_border=true&bg_color=09090B&title_color=A855F7&text_color=E5E5E5&cache_seconds=86400" /> -->
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IKJ-work&hide_border=true&background=09090B&stroke=09090B&ring=7C3AED&fire=A855F7&currStreakLabel=A855F7&sideLabels=E5E5E5&currStreakNum=E5E5E5&sideNums=E5E5E5&dates=6B7280" />
-</div>
 
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=IKJ-work&hide_border=true&background=00000000&stroke=666666&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=999999&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" alt="GitHub streak" />
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=IKJ-work&label=PROFILE+VIEWS&color=6d28d9&style=flat-square" alt="Profile views" />
 
 </div>
 
 ---
 
-
-## `$ contact --init`
-
 <div align="center">
 
-I'm open to serious freelance projects, SaaS collaborations, and strategic technical partnerships — reach out and let's build something real.
+## `08 / LET'S BUILD SOMETHING USEFUL`
+
+I am interested in serious software projects, SaaS products, automation systems and technical partnerships where engineering has a direct business outcome.
+
+<br/>
 
 <a href="mailto:ibrahim.khan.jagwal@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-ibrahim.khan.jagwal%40gmail.com-7C3AED?style=for-the-badge&labelColor=09090B&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.ua-technologies.com/">
-  <img src="https://img.shields.io/badge/WEBSITE-ua--technologies.com-7C3AED?style=for-the-badge&labelColor=09090B&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/ibrahim.khan.jagwal%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <br/><br/>
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:050505,35:120821,70:5B21B6,100:050505&section=footer"
-/>
+`BUILD SYSTEMS. REMOVE FRICTION. CREATE LEVERAGE.`
 
 </div>
